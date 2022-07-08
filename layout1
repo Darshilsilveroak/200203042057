@@ -1,0 +1,34 @@
+<html>
+<head>
+<title> layot2 </title>
+<link rel="stylesheet" href="layout.css">
+</head>
+<body>
+<div id="wraper">
+<div id ="header"> 
+<h1> yahuuu </h1>
+</div>
+<div id =" menu">
+<ul>
+<li><a href="">home</a></li>
+<li><a href="">about us</a></li>
+<li><a href="">gallary</a></li>
+<li><a href="">contect us</a></li>
+</div>
+<div id ="content">
+<h2> desgine basic </h2>
+<p>sdvjdjdjjddqejdbqkjedjbdjwqebjhbdjwehfvbjwefvjwevfjkwefvjfvsvcwjkhsdkwjqwvdhvhgdhywfdwdgjwhdvhdfydfvjhqvhd</p>
+<p>dfdfskn dhi jhbdw dsdkhndiwj dwqoiwqjdbn wdkwfkdfenk kqd fhidfuheie n nkdbiefnqdkdihiewkefdnkdbni wq jhndi   ooiqjwh </p>
+</div>
+<div id ="sidebar">
+<ul>
+<li><a href="">home</a></li>
+<li><a href="">about us</a></li>
+<li><a href="">gallary</a></li>
+<li><a href="">contect us</a></li>
+ djangocopyright@2022.
+ </div>
+<div id="footer"> 
+</div>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title> table</title>
+    </head>
+    <body>
+        <tableborder="1">
+            <tr>
+                <td>sr.no </td>
+                <td>course</td>
+                <td>fees</td>
+                <td>sem</td>
+            </tr>
+            <tralign="center">
+                <td>1</td>
+                <td>b.com</td>
+                <td>10000</td>
+                <td>6</td>
+            </tr>
+            <tralign="center">
+                <td>2</td>
+                <td>bba</td>">
+                <td>20000</td>
+                <td>8</td>
+            </tr>
+            <tralign="center">
+                <td>3</td>
+                <td>b.tech</td>
+                <td>25000</td>
+                <td>8</td>
+            </tr>
+        </body>
+</html>

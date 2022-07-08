@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#wrapper{
+border:1px solid black;
+width: 1000px;
+background-color: black;
+margin: auto;
+}
+#header{
+    background-color: antiquewhite;
+    height: 100px;
+}
+#menu{
+    background-color: red;
+}
+#menu li{
+    display: inline;
+}
+#sidebar{
+    background-color: lightblue;
+}
+#footer{
+    background-color:lightblue;
+}
